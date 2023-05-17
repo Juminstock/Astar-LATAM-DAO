@@ -3,3 +3,5 @@
 Este repositorio contendrá el código de la tercera sesión del workshop de Astar Network.
 ¡Iniciemos!
 </p>
+<h3 align="center">
+</h3>
