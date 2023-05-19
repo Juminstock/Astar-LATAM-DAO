@@ -4,5 +4,5 @@ Este repositorio contendrá el código de la tercera sesión del workshop de Ast
 ¡Iniciemos!
 </p>
 <h3 align="center">
-  Para usarlo deberás tener.
+  Instala:
 </h3>
