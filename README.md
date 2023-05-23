@@ -1,6 +1,6 @@
-<h1 align="center">Link dApp</h1>
+<h1 align="center">Astar POAPs</h1>
 <p>
-  Aplicación descentralizada que nos permite acortar URLs. Esta aplicación se encuentra desplegada en la red Rococo de Polkadot por el equipo de Ink!
+  dApp.
 </p>
 <h3 align="center">
 </h3>
