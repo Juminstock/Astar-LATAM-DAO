@@ -1,4 +1,4 @@
-<h1 align="center">Astar POAPs</h1>
+<h1 align="center">JavaScript videogame</h1>
 <p>
   dApp.
 </p>
