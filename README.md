@@ -1,1 +1,1 @@
-<h1 align="center">JavaScript videogame</h1>
+<h1 align="center">Quemby</h1>
