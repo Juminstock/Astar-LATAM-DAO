@@ -117,3 +117,5 @@ Cargo.lock
 
 debug/
 target/
+artifacts/
+typedContracts/
