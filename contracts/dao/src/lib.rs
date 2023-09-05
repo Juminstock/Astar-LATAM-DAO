@@ -5,16 +5,18 @@
 mod dao {
     use ink::storage::Mapping;
 
+    //Evento de voto
     #[ink(event)]
     pub struct Vote {
         #[ink(topic)]
-        candidate: AccountId,
+        candidate: AccountId
     }
 
+    //Evento de nuevo candidato
     #[ink(event)]
     pub struct NewCandidate {
         #[ink(topic)]
-        candidate: AccountId,
+        candidate: AccountId
     }
     
     #[derive(Debug)]
@@ -63,8 +65,9 @@ mod dao {
         }
 
         #[ink(message)]
-        pub fn get_candidates(&self) {
-        }
+        pub fn get_votes(&self, candidate: AccountId) {
+            self.votes.get(candidate);
 
+        }
     }
 }
